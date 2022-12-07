@@ -8,7 +8,9 @@ This project will be created using javascript and will be an interactive sketchp
 
 The user will be able to:
 
-<ul>Toggle on and off coloring mode</ul>
-<ul>Pick between black, gray, or a random color</ul>
-<ul>Set the size of the drawing board</ul>
-<ul>Reset the board to clear drawing</ul>
+<ul>
+    <li>Toggle on and off coloring mode</li>
+    <li>Pick between black, gray, or a random color</li>
+    <li>Set the size of the drawing board</li>
+    <li>Reset the board to clear drawing</li>
+</ul>
